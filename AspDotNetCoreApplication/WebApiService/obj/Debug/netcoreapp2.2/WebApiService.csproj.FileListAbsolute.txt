@@ -1,0 +1,14 @@
+H:\AspDotNetCoreApplication\WebApiService\bin\Debug\netcoreapp2.2\WebApiService.deps.json
+H:\AspDotNetCoreApplication\WebApiService\bin\Debug\netcoreapp2.2\WebApiService.runtimeconfig.json
+H:\AspDotNetCoreApplication\WebApiService\bin\Debug\netcoreapp2.2\WebApiService.runtimeconfig.dev.json
+H:\AspDotNetCoreApplication\WebApiService\bin\Debug\netcoreapp2.2\WebApiService.dll
+H:\AspDotNetCoreApplication\WebApiService\bin\Debug\netcoreapp2.2\WebApiService.pdb
+H:\AspDotNetCoreApplication\WebApiService\obj\Debug\netcoreapp2.2\WebApiService.csproj.CoreCompileInputs.cache
+H:\AspDotNetCoreApplication\WebApiService\obj\Debug\netcoreapp2.2\WebApiService.RazorAssemblyInfo.cache
+H:\AspDotNetCoreApplication\WebApiService\obj\Debug\netcoreapp2.2\WebApiService.RazorAssemblyInfo.cs
+H:\AspDotNetCoreApplication\WebApiService\obj\Debug\netcoreapp2.2\WebApiService.AssemblyInfoInputs.cache
+H:\AspDotNetCoreApplication\WebApiService\obj\Debug\netcoreapp2.2\WebApiService.AssemblyInfo.cs
+H:\AspDotNetCoreApplication\WebApiService\obj\Debug\netcoreapp2.2\WebApiService.RazorTargetAssemblyInfo.cache
+H:\AspDotNetCoreApplication\WebApiService\obj\Debug\netcoreapp2.2\WebApiService.dll
+H:\AspDotNetCoreApplication\WebApiService\obj\Debug\netcoreapp2.2\WebApiService.pdb
+H:\AspDotNetCoreApplication\WebApiService\obj\Debug\netcoreapp2.2\WebApiService.csprojAssemblyReference.cache
